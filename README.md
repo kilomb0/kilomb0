@@ -2,13 +2,9 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Desarrollador de software junior💫</h4>
+<h3 align="center">Desarrollador de software junior💫</h3>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">Comprometida con el aprendizaje continuo en desarrollo web, abarcando tanto el front-end como el back-end, y explorando otros lenguajes de programación para ampliar mis habilidades técnicas.</h4>
 
@@ -53,33 +49,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kilomb0" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://profile-counter.glitch.me/kilomb0/count.svg?"  />
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/kilomb0/kilomb0/output/snake.svg" alt="Snake animation" />
 
